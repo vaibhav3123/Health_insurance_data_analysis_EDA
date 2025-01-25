@@ -6,16 +6,23 @@ In this project, I performed Exploratory Data Analysis (EDA) on a health insuran
 
 Key Findings
 Age: Older individuals (60+) exhibited higher insurance charges.
+
 Smoking: Smokers had significantly higher insurance costs.
+
 BMI: Higher BMI correlates with higher charges.
+
 Region: Insurance costs vary across regions, with the Southeast having higher charges.
+
 Dependents: Families with children tend to have higher charges.
+
 Gender: Males may face higher charges due to different health risk profiles.
 
 Tools & Techniques Used
 
 Data Cleaning and Transformation
+
 Exploratory Data Analysis (EDA)
+
 Data Visualization with Seaborn and Matplotlib
 
 Conclusion
